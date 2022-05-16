@@ -1,0 +1,4 @@
+﻿  103 union and enums.cpp
+C:\Users\270159918\source\repos\103 union and enums\103 union and enums\103 union and enums.cpp(8,12): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\270159918\source\repos\103 union and enums\103 union and enums\103 union and enums.cpp(8,12): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  103 union and enums.vcxproj -> C:\Users\270159918\source\repos\103 union and enums\Debug\103 union and enums.exe
